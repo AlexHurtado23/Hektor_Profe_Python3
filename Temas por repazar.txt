@@ -1,0 +1,27 @@
+Condicionals
+.- If
+.- If - else
+.- elif
+.- while
+
+Loops
+.- for
+.- while
+
+Methods
+
+Lists
+
+Functions
+.- Map
+.- Lamda
+
+Libraries
+.- Math
+.- Mathplotlib
+.- Numpy
+.- Pandas
+
+Specials
+.- csv files
+.- excel files
